@@ -1,4 +1,4 @@
-<h1>MiPrimerDevops<(h1>
+<h1>MiPrimerDevops</h1>
 
 <p>Evaluacion formativa clase Ingenieria en DEVOPS</p>
 <p>Incluye:</p>
