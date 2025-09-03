@@ -30,4 +30,4 @@ jobs:
       - name: Uso markdownlint
         uses: DavidAnson/markdownlint-cli2-action@v20
         with:
-          config: "markdownlint.json"
+          config: ".markdownlint.json"
