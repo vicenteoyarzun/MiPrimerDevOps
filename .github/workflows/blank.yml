@@ -26,3 +26,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Push confirmado
         run: echo Push confirmado
+
+      - name: Uso markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v20
+        with:
+          config: "markdownlint.json"
